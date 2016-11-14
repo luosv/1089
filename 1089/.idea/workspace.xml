@@ -612,7 +612,7 @@
       <workItem from="1478052859609" duration="8000" />
       <workItem from="1478073527652" duration="6619000" />
       <workItem from="1478159666691" duration="67000" />
-      <workItem from="1479113617873" duration="576000" />
+      <workItem from="1479113617873" duration="637000" />
     </task>
     <task id="LOCAL-00001" summary="整合Idea">
       <created>1479113697356</created>
@@ -635,11 +635,18 @@
       <option name="project" value="LOCAL" />
       <updated>1479114188217</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="整合Idea...">
+      <created>1479114218428</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1479114218428</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18449000" />
+    <option name="totallyTimeSpent" value="18510000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -685,7 +692,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="整合Idea" />
-    <option name="LAST_COMMIT_MESSAGE" value="整合Idea" />
+    <MESSAGE value="整合Idea..." />
+    <option name="LAST_COMMIT_MESSAGE" value="整合Idea..." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -733,6 +741,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3079">
           <caret line="647" column="0" selection-start-line="647" selection-start-column="0" selection-end-line="647" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
