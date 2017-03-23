@@ -8,7 +8,7 @@ public class Main {
 
         method1();
         method2();
-        way3(99999999);
+        method3(99999999);
 
     }
 
@@ -56,7 +56,7 @@ public class Main {
     }
 
     // 计算num内符合abc...乘以9等于...cba条件的正整数
-    private static void way3(int num) {
+    private static void method3(int num) {
 
         System.out.println("方法三：");
 
