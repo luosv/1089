@@ -6,13 +6,13 @@ public class Main {
 
     public static void main(String[] args) {
 
-        way1();
-        way2();
+        method1();
+        method2();
         way3(99999999);
 
     }
 
-    private static void way1() {
+    private static void method1() {
 
         System.out.println("方法一：");
 
@@ -37,7 +37,7 @@ public class Main {
 
     }
 
-    private static void way2() {
+    private static void method2() {
 
         System.out.println("方法二：");
 
