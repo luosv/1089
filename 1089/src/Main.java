@@ -1,6 +1,6 @@
 /**
  * 计算num内符合abc...乘以9等于...cba条件的正整数
- * Created by LuoSw on 2016/11/1 0001.
+ * Created by Luosv on 2016/11/1 0001.
  */
 public class Main {
 
